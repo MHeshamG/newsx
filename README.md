@@ -1,6 +1,8 @@
 # newsx
 
-A new Flutter application.
+A new Flutter application for fetching latest news.
+- using MVVM Architecture pattern
+- appling clean code principles
 
 ## Getting Started
 
